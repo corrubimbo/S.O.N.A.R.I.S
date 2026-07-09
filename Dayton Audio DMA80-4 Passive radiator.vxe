@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--VituixCAD ENCLOSURE FILE-->
+<ENCLOSURE>
+  <DrvManufacturer>Dayton Audio</DrvManufacturer>
+  <DrvModel>DMA80-4</DrvModel>
+  <LocalDatabase>C:\Users\Public\Documents\VituixCAD\Enclosure\VituixCAD_Drivers.txt</LocalDatabase>
+  <chkOnlineDatabase>False</chkOnlineDatabase>
+  <cmbDriverCount>1 driver</cmbDriverCount>
+  <chkIsobaric>False</chkIsobaric>
+  <chkIsobaricSeries>False</chkIsobaricSeries>
+  <txtMme>0</txtMme>
+  <txtEg>2.83</txtEg>
+  <txtPg>2.00222</txtPg>
+  <optEg>True</optEg>
+  <optPg>False</optPg>
+  <optDriverSeries>True</optDriverSeries>
+  <optDriverParallel>False</optDriverParallel>
+  <optDriverConn22>False</optDriverConn22>
+  <optDriverConn33>False</optDriverConn33>
+  <txtDrvName>Dayton Audio DMA80-4</txtDrvName>
+  <cmbEnclosureType>Passive radiator</cmbEnclosureType>
+  <chkDiffraction>False</chkDiffraction>
+  <txtDiffractionFile />
+  <txtBoxRVb>0.85</txtBoxRVb>
+  <txtBoxRQa>10</txtBoxRQa>
+  <txtBoxRQl>10</txtBoxRQl>
+  <txtBoxRFb>62.325512016960346</txtBoxRFb>
+  <chkBoxRFb>False</chkBoxRFb>
+  <txtPassRVas>2.124212198624325</txtPassRVas>
+  <txtPassRSd>31.2</txtPassRSd>
+  <txtPassRQms>8.91</txtPassRQms>
+  <txtPassRMms>13.7</txtPassRMms>
+  <txtPassRMme>0</txtPassRMme>
+  <txtPassRFs>34.6</txtPassRFs>
+  <txtPassRFe>34.6</txtPassRFe>
+  <txtPassRXmax>7</txtPassRXmax>
+  <txtPassRNbr>1</txtPassRNbr>
+  <txtPassRName />
+  <chkHP>True</chkHP>
+  <cmbHP>Butterworth</cmbHP>
+  <txtHPFreq>75</txtHPFreq>
+  <txtHPOrd>2</txtHPOrd>
+  <txtHPQ>0.71</txtHPQ>
+  <chkLP>True</chkLP>
+  <cmbLP>Butterworth</cmbLP>
+  <txtLPFreq>4500</txtLPFreq>
+  <txtLPOrd>2</txtLPOrd>
+  <txtLPQ>0.71</txtLPQ>
+  <chkSLP>False</chkSLP>
+  <txtSLPGain>6</txtSLPGain>
+  <txtSLPFreq>40</txtSLPFreq>
+  <txtSLPQ>0.71</txtSLPQ>
+  <txtSLPOrd>2</txtSLPOrd>
+  <chkSHP>False</chkSHP>
+  <txtSHPGain>-3</txtSHPGain>
+  <txtSHPFreq>200</txtSHPFreq>
+  <txtSHPQ>0.71</txtSHPQ>
+  <txtSHPOrd>2</txtSHPOrd>
+  <chkPEQ1>False</chkPEQ1>
+  <txtPEQ1Gain>6</txtPEQ1Gain>
+  <txtPEQ1Freq>30</txtPEQ1Freq>
+  <txtPEQ1Q>1</txtPEQ1Q>
+  <chkPEQ2>True</chkPEQ2>
+  <txtPEQ2Gain>-3</txtPEQ2Gain>
+  <txtPEQ2Freq>125</txtPEQ2Freq>
+  <txtPEQ2Q>2</txtPEQ2Q>
+  <chkLT>False</chkLT>
+  <txtLTfo>50</txtLTfo>
+  <txtLTQo>0.5</txtLTQo>
+  <txtLTfp>30</txtLTfp>
+  <txtLTQp>0.707</txtLTQp>
+  <chkLTtrack>False</chkLTtrack>
+  <chkCs>False</chkCs>
+  <txtCs>470</txtCs>
+  <chkLs>False</chkLs>
+  <txtLs>2.2</txtLs>
+  <txtRs>0</txtRs>
+  <chkCp>False</chkCp>
+  <txtCp>22</txtCp>
+  <chkLp>False</chkLp>
+  <txtLp>15</txtLp>
+  <chkRp>False</chkRp>
+  <txtRp>6.8</txtRp>
+  <chkShowElectrical>False</chkShowElectrical>
+  <cmsShowInductance>False</cmsShowInductance>
+</ENCLOSURE>
