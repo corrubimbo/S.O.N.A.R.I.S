@@ -1,4 +1,4 @@
-# SONARIS MK5 — `ripple_pi_windows.py` Reference
+# SONARIS MK5 — `ripple_pi_windows.py` Reference (AI GENERATED AND VERIFIED)
 
 A plain-language guide to the ripple music visualizer: what it does, how it works, and
 what every setting ("knob") near the top of the file changes.
