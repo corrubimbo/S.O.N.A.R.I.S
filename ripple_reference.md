@@ -1,4 +1,5 @@
-# SONARIS MK5 — Ripple Visualizer Reference (AI GENERATED BUT VERIFIED)
+# SONARIS MK5 — Ripple Visualizer Reference 
+# (AI GENERATED BUT VERIFIED)
 
 A plain-language guide to the ripple music visualizer: what it does, how it works, and
 what every setting ("knob") near the top of the file changes. It covers **both builds** —
