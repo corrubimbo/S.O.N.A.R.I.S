@@ -1,5 +1,5 @@
 # S.O.N.A.R.I.S
-Custom Bluetooth Stereo Speaker with a Built-in screen. Ultimate vibe machine
+Premium high-quality Bluetooth Stereo Speaker with a Built-in screen. Multi-purpose speaker with a desktop design and high portability. Ultimate vibe machine
 
 ## Bill of Materials
 
