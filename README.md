@@ -79,5 +79,5 @@ The visualizer will be displayed on a headless Lite OS setup; it works by displa
 | AR Glass Fiber | 1 | $11.99 | $11.99 | Amazon | Not Owned |
 | Cement All Concrete | 1 | $21.97 | $21.97 | Home Depot | Not Owned |
 | **Total (Not Owned and no shipping + no tax)** | | | **$381.99** | | |
-| **Shipping + Tax Estimate** | | | **$40.65** | | |
-| **Total (Just Now Owned)** | | | **$422.64** | | |
+| **Shipping + Tax Estimate** | | | **$30.86** | | |
+| **Total (Just Now Owned)** | | | **$412.85** | | |
