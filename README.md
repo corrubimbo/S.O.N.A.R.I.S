@@ -1,6 +1,11 @@
 # S.O.N.A.R.I.S
 Premium high-quality Bluetooth Stereo Speaker with a Built-in screen. Multi-purpose speaker with a desktop design and high portability. Ultimate vibe machine
 
+##Visualizer Script
+
+
+
+
 ## Bill of Materials
 
 | Part | Qty | Unit | Total | Retailer | Status |
