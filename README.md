@@ -18,9 +18,12 @@ The speaker uses a curved matte light-gray concrete frame with a PETG filament c
 
 Using a USB-C PD board configured to 4S, a USB-C cable is able to power the entire speaker. Power from the USB-C travels into the BMS and 4S Battery cells; the BMS monitors the battery cells' health while they charge and discharge. From the battery, they take two routes: they directly power the amp and power the Raspberry Pi. First, the power goes through an SPST switch (Power on and off) and a 5A fuse; they diverge before entering a buck converter module that reduces the voltage to a safe limit for the Raspberry Pi. A Micro-USB pigtail is used from the output of the buck converter to power the Raspberry Pi with the protection that is included in the Micro-USB port. From here, the Raspberry Pi powers the DAC and the monitor. The DAC is connected to the Pi's DIN, BCK, and LRCK pins on the Raspberry Pi while outputting the AGND, LOUT, and ROUT to the amp. From the amp, powered with the 16.8 V from the battery, both left and right channels go through the crossover network before reaching the woofer and tweeter and emitting audio.
 
-## Visualizer Script
+## Software and Visualizer Script
+The software controls both the display and the controls that will serve as media controls. AVRCP protocol will allow for my button daemon to send signals to the Bluetooth device so my Pause/Play, Next, and Previous buttons work. A2DP will be the main protocol for the Raspberry Pi to play the audio, using PipeWire and the Raspberry Pi as a Bluetooth sink; it can play audio that will be sent through Bluetooth. I will also add a rotary encoder with a built-in SPST switch; the encoder controls the volume with each pulse (24 pulses per revolution), increasing or decreasing the volume by 5%. The built-in SPST switch in the encoder will turn off the screen (not the audio), functioning as a manual battery saver.
 
 https://github.com/user-attachments/assets/bdc164bf-ed7d-49ca-9e82-6e2769f0c6df
+
+The visualizer will be displayed on a headless Lite OS setup; it works by displaying rings with thicknesses at set distances that "pulse" up and down from its designated frequency range. It uses C.A.V.A's optimized FFT data to produce the "ripples". It has an Apple Music-type background that blurs and warps over time. To sell the illusion of a ripple, the rings diffract simulated light to create diffraction, and to simulate height, there is shine and shadows for each ring, creating the illusion of light being produced from the top-right corner. for more information about the visualizer, look at the [Reference](software/ripple_reference.md) file in the software folder.
 
 ## Bill of Materials
 
