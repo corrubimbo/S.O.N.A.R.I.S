@@ -41,7 +41,7 @@ The visualizer will be displayed on a headless Lite OS setup; it works by displa
 | 32GB microSD | 1 | $22.99 | $22.99 | Amazon | Owned |
 | 7" 1024x600 LCD Monitor | 1 | $29.58 | $29.58 | AliExpress | Owned |
 | PCM5102A DAC Board | 1 | $11.99 | $11.99 | Amazon | Owned |
-| Mini-HDMI Ribbon Cable | 1 | $6.99 | $6.99 | Amazon | Not Owned |
+| Mini-HDMI Ribbon Cable | 1 | $7.99 | $7.99 | Amazon | Not Owned |
 | Breakable Header Pins | 1 | $2.62 | $2.62 | AliExpress | Owned |
 | Samsung 35E 18650 Cell | 4 | $4.99 | $19.96 | 18650 Battery Store | Not Owned |
 | HiLetgo 4S 30A BMS | 1 | $7.49 | $7.49 | Amazon | Not Owned |
@@ -78,6 +78,6 @@ The visualizer will be displayed on a headless Lite OS setup; it works by displa
 | Rotary Encoder (PEC11R) | 1 | $2.23 | $2.23 | Mouser | Not Owned |
 | AR Glass Fiber | 1 | $11.99 | $11.99 | Amazon | Not Owned |
 | Cement All Concrete | 1 | $21.97 | $21.97 | Home Depot | Not Owned |
-| **Total (Not Owned and no shipping + no tax)** | | | **$380.99** | | |
+| **Total (Not Owned and no shipping + no tax)** | | | **$381.99** | | |
 | **Shipping + Tax Estimate** | | | **$40.65** | | |
-| **Total (Just Now Owned)** | | | **$421.64** | | |
+| **Total (Just Now Owned)** | | | **$422.64** | | |
