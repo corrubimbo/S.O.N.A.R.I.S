@@ -1,9 +1,16 @@
 # S.O.N.A.R.I.S
 Premium high-quality Bluetooth Stereo Speaker with a Built-in screen. Multi-purpose speaker with a desktop design and high portability. Ultimate vibe machine
+## Design 
+
+<img width="1020" height="649" alt="image" src="https://github.com/user-attachments/assets/957197cc-e08a-4edf-a405-bdc8a3cf59a0" />
+
+## Schematic
+
+<img width="1222" height="849" alt="image" src="https://github.com/user-attachments/assets/4e89b046-9c86-4c9e-b77b-c2f711f0cd8e" />
 
 ## Visualizer Script
 
-
+https://github.com/user-attachments/assets/bdc164bf-ed7d-49ca-9e82-6e2769f0c6df
 
 ## Bill of Materials
 
@@ -59,3 +66,5 @@ Premium high-quality Bluetooth Stereo Speaker with a Built-in screen. Multi-purp
 | AR Glass Fiber | 1 | $11.99 | $11.99 | Amazon | Not Owned |
 | Cement All Concrete | 1 | $21.97 | $21.97 | Home Depot | Not Owned |
 | **Total (Not Owned and no shipping + no tax)** | | | **$380.99** | | |
+| **Shipping + Tax Estimate** | | | **$40.65** | | |
+| **Total (Just Now Owned)** | | | **$421.64** | | |
